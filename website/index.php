@@ -10,7 +10,7 @@
 
 <body>
   <header>
-    <h1>Coaching de vie & Confiance en soi</h1>
+    <h1>Coaching de vie & Confiance en soi ca va</h1>
     <nav>
       <ul>
         <li><a href="#presentation">Présentation</a></li>
